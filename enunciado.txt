@@ -1,0 +1,5 @@
+A una empresa de telefonia le interesa crear un sistema para facturar las llamas de sus clientes.
+La facturacion se debe realizar en funcion del tipo de llamada y de su duracion.
+Para llamadas locales, el costo es de 0.005 por minuto.  Las llamadas internacionales cuestan 0.10 el minuto.  
+Ademas es posible que los clientes definan una lista de 5 destinatarios preferenciales para los cuales las llamadas cuestan la mitad.
+Implementar un sistema que dado una lista de llamadas realizadas en el pasado calcule el costo total.
